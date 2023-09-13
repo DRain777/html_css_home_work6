@@ -1,0 +1,196 @@
+@import"./reset.css";
+
+/* верхняя шапка */
+
+.header_top_box {
+    width: 100vw;
+    /* max-width: 1600px; */
+    background-color: black;
+    display: flex;
+    /* justify-content: center; */
+    height: 75px;
+}
+
+
+.logo {
+
+    width: 44px;
+    height: 38px;
+    flex-shrink: 0;
+    margin: 18px 41px 18px 14%;
+
+}
+
+.search {
+    width: 26.002px;
+    height: 26.792px;
+    flex-shrink: 0;
+    margin: 28.21px 859px 20px 41px;
+}
+
+.profile {
+
+    width: 32px;
+    height: 23px;
+    flex-shrink: 0;
+
+
+}
+
+
+.line {
+
+    width: 29px;
+    height: 29px;
+    flex-shrink: 0;
+    margin-top: 25px;
+    margin-right: 15px;
+
+
+
+}
+
+.men {
+
+    width: 29px;
+    height: 29px;
+    flex-shrink: 0;
+    /* margin: 26px 15px 20px 15
+    px; */
+    margin-top: 24px;
+
+}
+
+.backet {
+    width: 29px;
+    height: 29px;
+    flex-shrink: 0;
+    margin: 26px 15% 20px 10px;
+
+}
+
+/* Центральный блок заголовком и глвным фото */
+.top_center {
+    width: 100vw;
+    height: 764px;
+    background-color: #F1E4E6;
+    display: flex;
+    justify-content: center;
+
+}
+
+.photo_men {
+
+    margin-right: 65px;
+    margin-left: -7%;
+
+}
+
+
+
+.line_pink {
+    width: 12px;
+    height: 92px;
+    flex-shrink: 0;
+    margin-top: 290px;
+    margin-right: 28px;
+
+
+}
+
+.box_title {
+
+
+    /* display: flex; */
+    /* justify-content: center; */
+    height: 377px;
+    height: 93px;
+    margin-top: 297px;
+
+
+
+}
+
+
+
+.title {
+    color: #222;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+
+}
+
+.text {
+
+    color: #222;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
+
+
+.pink_text {
+
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 252px;
+    margin-top: -37px;
+
+
+}
+
+
+
+.offer_container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+   
+
+
+
+
+
+
+
+
+
+
+}
+
+
+.offer_title {
+
+
+    width: 360px;
+    height: 260px;
+
+
+   background-color: aqua;
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
