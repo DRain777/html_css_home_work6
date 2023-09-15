@@ -1,4 +1,3 @@
-# Результат [здесь](https://DRain777.github.io/html_css_home_work6)
 # Задание
 
 https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=188%3A2
