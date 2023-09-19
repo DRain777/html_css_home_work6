@@ -1,0 +1,66 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .center {
+        width: 100%;
+    }
+
+    .header {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .left__menu {
+        margin-left: 32px;
+    }
+
+    .right__menu {
+        margin-right: 32px;
+    }
+
+    .top {
+        padding-right: 33px;
+        margin-bottom: 65px;
+    }
+
+    .photo {
+        min-width: 48%;
+    }
+
+    .title {
+        font-size: 44px;
+        min-width: 283px;
+    }
+
+    .subtitle {
+        font-size: 24px;
+    }
+
+
+    .offers {
+        height: 303px;
+        gap: 20px;
+        padding-left: 2%;
+        padding-right: 2%;
+        margin-bottom: 110px;
+    }
+
+    .offer__img {
+        max-width: 100%;
+    }
+
+    .content__header {
+        margin-bottom: 73px;
+    }
+
+    .content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        gap: 16px;
+        padding-left: 2%;
+        padding-right: 2%;
+        margin-bottom: 33px;
+    }
+
+}
