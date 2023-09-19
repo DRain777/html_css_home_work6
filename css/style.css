@@ -79,6 +79,7 @@
     background-color: #F1E4E6;
     display: flex;
     justify-content: center;
+    position: relative;
 
 }
 
@@ -104,11 +105,13 @@
 .box_title {
 
 
-    /* display: flex; */
-    /* justify-content: center; */
-    height: 377px;
-    height: 93px;
-    margin-top: 297px;
+    width: 405px;
+    height: 93.1px;
+    top: 288.9px;
+
+    background-color: #F16D7F;
+    position: relative;
+
 
 
 
@@ -123,6 +126,8 @@
     font-style: normal;
     font-weight: 900;
     line-height: normal;
+
+
 
 
 }
@@ -142,23 +147,29 @@
 
 .pink_text {
 
+
+
+
     color: #F16D7F;
     font-family: Lato;
     font-size: 32px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-left: 89%;
-    margin-top: -37px;
-
-
+    margin-left: 62%;
+    margin-top: -40px;
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    z-index: 1;
 }
+
+
+
 
 
 .offer_container {
     width: 100vw;
-
-
 
     /* background-color: blue; */
     display: flex;
@@ -173,6 +184,12 @@
     height: 600px;
     /* position: relative; */
 }
+
+
+
+
+
+
 
 .offer_box {
     width: 360px;
@@ -272,7 +289,7 @@
 .box_shop {
     width: 100vw;
     height: 180px;
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -301,7 +318,7 @@
 
 
 
-   
+
     position: absolute;
 
 
@@ -323,7 +340,7 @@
 
     position: absolute;
 
-  
+
 }
 
 
@@ -331,13 +348,20 @@
 /* ////catalog//// */
 .catalog_container {
     width: 100vw;
+   
+
+
+
     display: grid;
     grid-template-columns: repeat(3, 360px);
     gap: 30px;
     padding: 48px 230px;
     justify-content: center;
+    align-items: center;
 
-   
+  
+
+
 
 
 
@@ -350,7 +374,7 @@
     width: 360px;
     height: 620px;
     fill: #F8F8F8;
-    margin-left: -40px;
+    /* margin-left: -40px; */
 
 
 
