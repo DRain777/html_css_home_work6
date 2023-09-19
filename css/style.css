@@ -289,11 +289,14 @@
 .box_shop {
     width: 100vw;
     height: 180px;
-
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    
+    background-color: aqua;
+
+
+   
 
     position: relative;
 
