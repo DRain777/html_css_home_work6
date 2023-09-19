@@ -148,7 +148,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-left: 252px;
+    margin-left: 89%;
     margin-top: -37px;
 
 
@@ -169,7 +169,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
     height: 600px;
     /* position: relative; */
 }
@@ -184,7 +184,7 @@
     justify-content: center;
     align-items: center;
 
-    
+
 
 
 
@@ -272,9 +272,10 @@
 .box_shop {
     width: 100vw;
     height: 80px;
-background-color: #F16D7F;
-    
-  
+    background-color: #F16D7F;
+    text-align: center;
+
+
 
 
 
@@ -294,6 +295,8 @@ background-color: #F16D7F;
     height: 36px;
     margin-left: 50%;
 
+    background-color: blueviolet;
+
 
 
 }
@@ -310,6 +313,8 @@ background-color: #F16D7F;
     width: 337px;
     height: 17px;
     margin-left: 45%;
+
+    background-color: aqua;
 }
 
 
@@ -322,11 +327,11 @@ background-color: #F16D7F;
     gap: 30px;
     padding: 48px 230px;
     justify-content: center;
-   
+
     background-color: aqua;
 
- 
-   
+
+
 
 
 
