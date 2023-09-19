@@ -7,10 +7,10 @@
 
 .header_top_box {
     width: 100vw;
-    /* max-width: 1600px; */
+   
     background-color: black;
     display: flex;
-    /* justify-content: center; */
+    
     height: 75px;
 }
 
@@ -109,7 +109,7 @@
     height: 93.1px;
     top: 288.9px;
 
-    background-color: #F16D7F;
+    /* background-color: #F16D7F; */
     position: relative;
 
 
@@ -157,12 +157,14 @@
     font-weight: 700;
     line-height: normal;
 
-    margin-left: 62%;
+    margin-left: 73%;
+
+ 
     margin-top: -40px;
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 150px;
     height: 50px;
-    z-index: 1;
+    /* z-index: 1; */
 }
 
 
@@ -294,13 +296,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    background-color: aqua;
+    gap: 20px;
+
+    /* background-color: aqua; */
 
 
-   
 
     position: relative;
+    margin: auto;
 
 
 
@@ -318,8 +321,12 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    width: 182px;
+    width: 382px;
     height: 36px;
+    /* background-color: #F16D7F; */
+    text-align: center;
+
+
 
 
 
@@ -340,10 +347,14 @@
     font-weight: 400;
     line-height: normal;
     width: 337px;
-    height: 17px;
+    height: 0px;
     padding-top: 35px;
 
     position: absolute;
+    /* background-color: #5D5D5D; */
+    margin-top: 70px;
+    text-align: center;
+    margin: auto;
 
 
 }
@@ -353,7 +364,7 @@
 /* ////catalog//// */
 .catalog_container {
     width: 100vw;
-   
+
 
 
 
@@ -364,7 +375,7 @@
     justify-content: center;
     align-items: center;
 
-  
+
 
 
 
@@ -450,6 +461,19 @@
 /* //////pink_button//// */
 
 
+
+
+.button_container{
+
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
 .button_box {
 
     width: 212px;
@@ -462,7 +486,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 27px;
-    margin-left: 47%;
+    
 }
 
 
