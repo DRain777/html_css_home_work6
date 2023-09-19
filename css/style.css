@@ -271,9 +271,14 @@
 
 .box_shop {
     width: 100vw;
-    height: 80px;
-    background-color: #F16D7F;
+    height: 180px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+
+    position: relative;
 
 
 
@@ -293,9 +298,11 @@
     line-height: normal;
     width: 182px;
     height: 36px;
-    margin-left: 50%;
 
-    background-color: blueviolet;
+
+
+   
+    position: absolute;
 
 
 
@@ -312,9 +319,11 @@
     line-height: normal;
     width: 337px;
     height: 17px;
-    margin-left: 45%;
+    padding-top: 35px;
 
-    background-color: aqua;
+    position: absolute;
+
+  
 }
 
 
@@ -328,7 +337,7 @@
     padding: 48px 230px;
     justify-content: center;
 
-    background-color: aqua;
+   
 
 
 
