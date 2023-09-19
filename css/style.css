@@ -4,13 +4,9 @@
 
 
 
-/* .center {
-    width: 1600px;
-    margin: 0 auto;
-} */
 
 .header_top_box {
-    width: 100%;
+    width: 100vw;
     /* max-width: 1600px; */
     background-color: black;
     display: flex;
@@ -78,7 +74,7 @@
 
 /* Центральный блок заголовком и глвным фото */
 .top_center {
-    width: 100%;
+    width: 100vw;
     height: 764px;
     background-color: #F1E4E6;
     display: flex;
